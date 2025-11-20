@@ -1,4 +1,3 @@
-# Devon Gilbert
 
 Hi, I'm Devon, a software developer based in the United States.  
 This site is a simple personal landing page for my projects and tools.
