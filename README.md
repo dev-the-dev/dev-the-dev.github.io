@@ -20,7 +20,7 @@ Anyone can opt out of reminders at any time by contacting me directly or replyin
 
 If you need to reach me about anything related to this site or my projects, you can contact me at the email address listed on my GitHub profile.
 
-##Privacy Policy
+## Privacy Policy
 
 Information Collection: We collect phone numbers solely for the purpose of sending transaction notifications regarding the football pool (reminders and results).
 
