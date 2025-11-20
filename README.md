@@ -19,3 +19,11 @@ Anyone can opt out of reminders at any time by contacting me directly or replyin
 ## Contact
 
 If you need to reach me about anything related to this site or my projects, you can contact me at the email address listed on my GitHub profile.
+
+##Privacy Policy
+
+Information Collection: We collect phone numbers solely for the purpose of sending transaction notifications regarding the football pool (reminders and results).
+
+No Third-Party Sharing: No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+Opt-Out: You can opt out of receiving messages at any time by replying "STOP".
