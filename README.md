@@ -29,4 +29,4 @@ No Third-Party Sharing: No mobile information will be shared with third parties 
 Opt-Out: You can opt out of receiving messages at any time by replying "STOP".
 
 
-Operated by: Devon Gilbert Contact: gilzgames@gmail.com (Use the clean email) Location: Battle Ground, WA
+Operated by: Devon Gilbert Contact: gilzgames@gmail.com  Location: Battle Ground, WA
