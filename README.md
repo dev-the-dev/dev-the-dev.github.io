@@ -27,3 +27,6 @@ Information Collection: We collect phone numbers solely for the purpose of sendi
 No Third-Party Sharing: No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
 Opt-Out: You can opt out of receiving messages at any time by replying "STOP".
+
+
+Operated by: Devon Gilbert Contact: gilzgames@gmail.com (Use the clean email) Location: Battle Ground, WA
